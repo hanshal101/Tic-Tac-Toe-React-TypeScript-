@@ -1,0 +1,10 @@
+.block-des{
+    border-radius: 2px;
+    border-color: black;
+    border-width: 20px;
+    padding: 60px;
+    border: 2px solid black;
+    font-size: 26px;
+    font-weight: bold;
+    margin: 2px;
+}
